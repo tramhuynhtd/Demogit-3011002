@@ -1,3 +1,8 @@
 tramhuynh001
 tramhuynh002
+<<<<<<< HEAD
 Huỳnh Trâm
+=======
+
+Nguyen Hoang Tien Dung
+>>>>>>> 0691bb3 (Update file1.txt)
