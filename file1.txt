@@ -1,3 +1,7 @@
 tramhuynh001
 tramhuynh002
+<<<<<<< HEAD
 Huỳnh Trâm
+=======
+Lê Đình Nhân
+>>>>>>> 1d915ed (add name to file1.txt)
